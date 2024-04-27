@@ -26,7 +26,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/ecommerce-website.git
+git clone https://github.com/eng-abhijit/ajshop-mens-wear.git
 ```
 2. Import Database:
 - Import the database.sql file into your MySQL database.
