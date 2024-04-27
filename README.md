@@ -29,7 +29,7 @@ To run this project locally, follow these steps:
 git clone https://github.com/eng-abhijit/ajshop-mens-wear.git
 ```
 2. Import Database:
-- Import the database.sql file into your MySQL database.
+- Import the attendance.sql file into your MySQL database.
 3. Configure Database Connection:
 - Open config.php file.
 - Update the database connection details (hostname, username, password, database name).
