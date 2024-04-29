@@ -45,11 +45,10 @@ git clone https://github.com/eng-abhijit/ajshop-mens-wear.git
 - Click on a product to view details and add it to the cart.
 - Proceed to checkout and place an order.
 3. Admin Features:
-- Access the admin panel using `/admin` route.
 - Login with admin credentials.
 - Manage products, and update banners.
 ## Admin Panel
-The admin panel is accessible at `/admin` route. Use your admin credentials to log in and access the following features:
+ Use your admin credentials to log in and access the following features:
 
 - Product Management:
   - Add new products.
